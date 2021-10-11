@@ -36,7 +36,7 @@ En caso que sea una rama diferente hay que modificar main por la deseada
 # crear una rama nueva y trabajar con ella:
 
 ```
-git checkout dev
 git branch dev
+git checkout dev
 ```
 El primer commando crea la rama y el segundo cambia de directorio de trabajo por la rama elegida.
